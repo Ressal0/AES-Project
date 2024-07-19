@@ -21,7 +21,7 @@ pip install -r requirements.txt
 1. Clone the repository:
 ```bash
 git clone https://github.com/Ressal0/AES-Project.git
-    cd AES-Project
+cd AES-Project
 ```
 2. Run the application:
 ```bash
