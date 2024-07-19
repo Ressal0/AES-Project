@@ -20,8 +20,8 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ressal0/aes-project.git
-cd aes-encryption-gui
+git clone https://github.com/Ressal0/AES-Project.git
+    cd AES-Project
 ```
 2. Run the application:
 ```bash
