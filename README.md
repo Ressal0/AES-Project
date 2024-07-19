@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/aes-encryption-gui.git
+git clone https://github.com/Ressal0/aes-project.git
 cd aes-encryption-gui
 ```
 2. Run the application:
