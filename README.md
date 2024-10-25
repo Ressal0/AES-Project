@@ -25,13 +25,12 @@ cd AES-Project
 ```
 2. Run the application:
 ```bash
-python gui.py
+python AES_plaintext_encryption.py
 ```
 3. Use the interface to input plaintext, generate an AES key, and encrypt the text. You can also decrypt ciphertext using the provided key.
 
 ## Files
-- `custom_aes.py`: Contains the AES encryption and decryption logic.
-- `gui.py`: Contains the code for the graphical user interface.
+- `AES_plaintext_encryption.py`: Contains the AES encryption and decryption logic and the code for the graphical user interface.
 
 ## Dependencies
 - `tkinter`: Used for the graphical user interface.
